@@ -12,7 +12,18 @@
 </p>
 
 
-- 🔭 I’m currently working on **GANs, CycleGANs, Object Detection**
-- 🌱 I’m currently learning **Neural Networks and their Applications**
-- 💬 Ask me about **Python, Machine Learning, Neural Networks**
-- ⚡ Fun fact: The first trainable neural network, the Perceptron, was demonstrated by the Cornell University psychologist Frank Rosenblatt in 1957!
+## 🔭 Current Work
+- Working on **GANs**, **CycleGANs**, and **Object Detection**.
+
+## 🌱 Learning
+- Currently diving deep into **Neural Networks** and their versatile applications.
+- Game Development
+- Systems Programming
+## 💬 Ask Me About
+- Python
+- Machine Learning
+- Neural Networks
+
+## ⚡ Fun Fact
+- Did you know? The first trainable neural network, the Perceptron, was unveiled in 1957 by the visionary psychologist Frank Rosenblatt at Cornell University!
+
