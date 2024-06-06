@@ -13,17 +13,16 @@
 
 
 ## 🔭 Current Work
-- Working on **GANs**, **CycleGANs**, and **Object Detection**.
+- Working on **Developing SAAS**, **Generative AI Solutions**, and **AI development and deployment**.
 
 ## 🌱 Learning
-- Currently diving deep into **Neural Networks** and their versatile applications.
-- Game Development
-- Systems Programming
+- Currently diving deep into **AI dev-dep**.
+- Generative AI
+- Flutter
 ## 💬 Ask Me About
-- Python
+- FLutter
 - Machine Learning
-- Neural Networks
+- Database Managment systems
+- Computer systems
 
-## ⚡ Fun Fact
-- Did you know? The first trainable neural network, the Perceptron, was unveiled in 1957 by the visionary psychologist Frank Rosenblatt at Cornell University!
 
